@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.TodoApp{
+  text-align: center;
+}
+
+.login{
+  text-align: center;
+}
+
+
+label, input, button{
+  margin:10px;
+  padding:5px;
+}
+
+footer{
+  bottom:0;
+  position: absolute;
+  width: 90%;
+  height:40px;
+}
+
+.custom-hover:hover {
+  color: blue !important;
+}
+
+.hover-red:hover {
+  color: red !important;
+}
+
+button.hover-red:hover {
+  background-color: red !important;
+  color: white !important;
+  border-color: red !important;
+}
